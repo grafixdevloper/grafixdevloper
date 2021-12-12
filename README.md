@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @grafixdevloper
 - 👀 I’m interested in Minecraft
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, Kotlin
 - 💞️ I’m looking to collaborate on something
-- 📫 How to reach me Grafix#0069 on discord
+- 📫 Reach me on discord Grafix#0637
 
 <!---
 grafixdevloper/grafixdevloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
