@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @grafixdevloper
 - 👀 I’m interested in Minecraft
-- 🌱 I’m currently learning Java, Kotlin
+- 🌱 I’m currently learning Java, Python
 - 💞️ I’m looking to collaborate on something
 - 📫 Reach me on discord Grafix#0637
 
